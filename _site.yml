@@ -13,6 +13,9 @@ twitter:
 #  site: "@rstudio"
   creator: "@sjystu"
 navbar:
+  logo:
+    image: "images/JooYoungFacebookProfile.JPG"
+    href: http://jooyoungseo.com
   right:
     - text: "Home"
       href: index.html
