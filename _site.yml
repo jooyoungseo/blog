@@ -15,14 +15,18 @@ twitter:
 navbar:
   logo:
     image: "images/JooYoungFacebookProfile.JPG"
-    href: http://jooyoungseo.com
+    href: https://jooyoungseo.com
   right:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
     - icon: fa fa-rss
+      text: RSS
       href: index.xml
     - icon: fab fa-github
+      text: GitHub
       href: https://github.com/jooyoungseo/blog
+rss:
+  full_content: true
 output: distill::distill_article
