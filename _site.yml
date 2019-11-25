@@ -3,7 +3,7 @@ title: "JooYoung's Blog"
 description: |
   JooYoung's Blog
 output_dir: "docs"
-base_url: /
+base_url: https://jooyoungseo.github.io/blog/
 collections:
   posts:
     feed_items_max: false
