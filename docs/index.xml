@@ -7,15 +7,15 @@
     <description>JooYoung's Blog
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Sun, 24 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2019 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Welcome to JooYoung's Blog</title>
-      <dc:creator>Nora Jones</dc:creator>
+      <dc:creator>JooYoung Seo</dc:creator>
       <link>https://jooyoungseo.github.io/blog/posts/welcome</link>
       <description>Welcome to our new blog, JooYoung's Blog. We hope you enjoy 
 reading what we have to say!</description>
       <guid>https://jooyoungseo.github.io/blog/posts/welcome</guid>
-      <pubDate>Sun, 24 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -9,6 +9,9 @@ creative_commons: CC BY
 collections:
   posts:
     feed_items_max: false
+    disqus: jooyoungseo-blog
+    share: [twitter, linkedin, facebook, google-plus, pinterest]
+    subscribe: _subscribe.html
 twitter:
 #  site: "@rstudio"
   creator: "@sjystu"

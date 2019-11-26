@@ -5,14 +5,14 @@
     "description": "Welcome to our new blog, JooYoung's Blog. We hope you enjoy \nreading what we have to say!",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "JooYoung Seo",
+        "url": "https://jooyoungseo.com"
       }
     ],
-    "date": "2019-11-24",
+    "date": "2019-11-26",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-24T17:13:16-05:00",
+    "last_modified": "2019-11-26T10:58:54-05:00",
     "input_file": {}
   }
 ]

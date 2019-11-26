@@ -4,11 +4,20 @@ description: |
   Welcome to our new blog, JooYoung's Blog. We hope you enjoy 
   reading what we have to say!
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
-date: 11-24-2019
+  - name: JooYoung Seo 
+    url: https://jooyoungseo.com
+    affiliation: The Pennsylvania State University
+    affiliation_url: https://www.psu.edu
+#date: 11-24-2019
+journal: 
+  title: "Journal of Data Science Software"
+  issn: 2490-1752
+  publisher: Data Science Press
+volume: 10
+issue: 4
+doi: "10.23915/distill.00010"
+#citation_url: https://jooyoungseo.com
+#bibliography: biblio.bib
 output:
   distill::distill_article:
     self_contained: false
