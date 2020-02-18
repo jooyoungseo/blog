@@ -1,18 +1,18 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "Welcome to JooYoung's Blog",
-    "description": "Welcome to our new blog, JooYoung's Blog. We hope you enjoy \nreading what we have to say!",
+    "path": "posts/2019-12-07-ezpickr/",
+    "title": "How to Use Ezpickr",
+    "description": "A R package ezpickr vignette.",
     "author": [
       {
         "name": "JooYoung Seo",
-        "url": "https://jooyoungseo.com"
+        "url": "https://jooyoungseo.com/"
       }
     ],
-    "date": "2019-11-26",
+    "date": "2019-12-07",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-26T10:58:54-05:00",
+    "last_modified": "2020-02-18T17:24:19-05:00",
     "input_file": {}
   }
 ]
